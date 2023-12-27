@@ -1,0 +1,11 @@
+{
+  "name": "todosite",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
